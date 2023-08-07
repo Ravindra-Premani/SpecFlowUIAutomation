@@ -1,0 +1,5 @@
+{"Timestamp":"2022-04-11T01:01:11.5959477-07:00","Level":"Information","MessageTemplate":"Select feature file {0} to run","Properties":{"0":"FT_001_LoginIPortApp"}}
+{"Timestamp":"2022-04-11T01:01:15.1249968-07:00","Level":"Information","MessageTemplate":"Select scenario {0} to run","Properties":{"0":"TS 001 Login user with Valid Credentials"}}
+{"Timestamp":"2022-04-11T01:01:15.1489993-07:00","Level":"Debug","MessageTemplate":"Navigate to {0} on chrome browser"}
+{"Timestamp":"2022-04-11T01:01:15.5700548-07:00","Level":"Debug","MessageTemplate":"Entered {0} and {1}","Properties":{"0":"sarvesh.maurya.consultant@nielsen.com","1":"iPort!23"}}
+{"Timestamp":"2022-04-11T01:01:15.6180556-07:00","Level":"Debug","MessageTemplate":"Clicked on Login button {0}"}

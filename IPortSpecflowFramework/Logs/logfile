@@ -1,0 +1,11 @@
+{"Timestamp":"2022-04-11T00:52:54.9202226-07:00","Level":"Information","MessageTemplate":"Select feature file {0} to run","Properties":{"0":"FT_001_LoginIPortApp"}}
+{"Timestamp":"2022-04-11T00:52:58.6780229-07:00","Level":"Information","MessageTemplate":"Select scenario {0} to run","Properties":{"0":"TS 001 Login user with Valid Credentials"}}
+{"Timestamp":"2022-04-11T00:52:58.7080252-07:00","Level":"Debug","MessageTemplate":"Navigate to {0} on chrome browser"}
+{"Timestamp":"2022-04-11T00:52:59.2081466-07:00","Level":"Debug","MessageTemplate":"Entered {0} and {1}","Properties":{"0":"savesh.maurya.consultant@nielsen.com","1":"iPort!23"}}
+{"Timestamp":"2022-04-11T00:52:59.2891457-07:00","Level":"Debug","MessageTemplate":"Clicked on Login button {0}"}
+{"Timestamp":"2022-04-11T00:53:19.4074294-07:00","Level":"Error","MessageTemplate":"Test Step Failed | no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[contains(text(), 'Create iPort Now')]\"}\n  (Session info: chrome=100.0.4896.75)"}
+{"Timestamp":"2022-04-11T00:55:10.9190159-07:00","Level":"Information","MessageTemplate":"Select feature file {0} to run","Properties":{"0":"FT_001_LoginIPortApp"}}
+{"Timestamp":"2022-04-11T00:55:14.4644193-07:00","Level":"Information","MessageTemplate":"Select scenario {0} to run","Properties":{"0":"TS 001 Login user with Valid Credentials"}}
+{"Timestamp":"2022-04-11T00:55:14.4994186-07:00","Level":"Debug","MessageTemplate":"Navigate to {0} on chrome browser"}
+{"Timestamp":"2022-04-11T00:55:15.0334314-07:00","Level":"Debug","MessageTemplate":"Entered {0} and {1}","Properties":{"0":"sarvesh.maurya.consultant@nielsen.com","1":"iPort!23"}}
+{"Timestamp":"2022-04-11T00:55:15.0944271-07:00","Level":"Debug","MessageTemplate":"Clicked on Login button {0}"}
