@@ -1,0 +1,12 @@
+2022-04-11 00:41:56.717 | INF | Select feature file "FT_001_LoginIPortApp" to run 
+2022-04-11 00:42:02.625 | INF | Select scenario "TS 001 Login user with Valid Credentials" to run 
+2022-04-11 00:42:02.735 | DBG | Navigate to {0} on chrome browser 
+2022-04-11 00:42:03.947 | DBG | Entered "sarvesh.maurya.consultant@nielsen.com" and "iPort!23" 
+2022-04-11 00:42:04.109 | DBG | Clicked on Login button {0} 
+2022-04-11 00:43:00.987 | INF | Select feature file "FT_001_LoginIPortApp" to run 
+2022-04-11 00:43:04.667 | INF | Select scenario "TS 001 Login user with Valid Credentials" to run 
+2022-04-11 00:43:04.700 | DBG | Navigate to {0} on chrome browser 
+2022-04-11 00:43:05.256 | DBG | Entered "savesh.maurya.consultant@nielsen.com" and "iPort!23" 
+2022-04-11 00:43:05.323 | DBG | Clicked on Login button {0} 
+2022-04-11 00:43:25.445 | ERR | Test Step Failed | no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(), 'Create iPort Now')]"}
+  (Session info: chrome=100.0.4896.75) 

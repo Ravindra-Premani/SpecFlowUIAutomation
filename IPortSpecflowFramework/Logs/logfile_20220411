@@ -1,0 +1,10 @@
+{"Timestamp":"2022-04-11T01:01:55.4132428-07:00","Level":"Information","MessageTemplate":"Select feature file {0} to run","Properties":{"0":"FT_001_LoginIPortApp"}}
+{"Timestamp":"2022-04-11T01:01:58.7564251-07:00","Level":"Information","MessageTemplate":"Select scenario {0} to run","Properties":{"0":"TS 001 Login user with Valid Credentials"}}
+{"Timestamp":"2022-04-11T01:01:58.7814260-07:00","Level":"Debug","MessageTemplate":"Navigate to {0} on chrome browser"}
+{"Timestamp":"2022-04-11T01:01:59.2344321-07:00","Level":"Debug","MessageTemplate":"Entered {0} and {1}","Properties":{"0":"sarvesh.maurya.consultant@nielsen.com","1":"iPort!23"}}
+{"Timestamp":"2022-04-11T01:01:59.2854323-07:00","Level":"Debug","MessageTemplate":"Clicked on Login button {0}"}
+{"Timestamp":"2022-04-11T01:02:23.0235863-07:00","Level":"Information","MessageTemplate":"Select feature file {0} to run","Properties":{"0":"FT_001_LoginIPortApp"}}
+{"Timestamp":"2022-04-11T01:02:26.6106357-07:00","Level":"Information","MessageTemplate":"Select scenario {0} to run","Properties":{"0":"TS 001 Login user with Valid Credentials"}}
+{"Timestamp":"2022-04-11T01:02:26.6366340-07:00","Level":"Debug","MessageTemplate":"Navigate to {0} on chrome browser"}
+{"Timestamp":"2022-04-11T01:02:27.1626429-07:00","Level":"Debug","MessageTemplate":"Entered {0} and {1}","Properties":{"0":"sarvesh.maurya.consultant@nielsen.com","1":"iPort!23"}}
+{"Timestamp":"2022-04-11T01:02:27.2466431-07:00","Level":"Debug","MessageTemplate":"Clicked on Login button {0}"}
