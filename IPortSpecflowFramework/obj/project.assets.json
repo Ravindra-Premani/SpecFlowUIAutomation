@@ -1070,7 +1070,7 @@
           "build/_._": {}
         }
       },
-      "Newtonsoft.Json/12.0.3": {
+      "Newtonsoft.Json/13.0.3": {
         "type": "package",
         "compile": {
           "lib/net45/Newtonsoft.Json.dll": {}
@@ -3430,14 +3430,15 @@
         "x64/native/windows/mongocrypt.dll"
       ]
     },
-    "Newtonsoft.Json/12.0.3": {
-      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
       "type": "package",
-      "path": "newtonsoft.json/12.0.3",
+      "path": "newtonsoft.json/13.0.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.md",
+        "README.md",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
         "lib/net35/Newtonsoft.Json.dll",
@@ -3446,17 +3447,15 @@
         "lib/net40/Newtonsoft.Json.xml",
         "lib/net45/Newtonsoft.Json.dll",
         "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
         "lib/netstandard1.0/Newtonsoft.Json.dll",
         "lib/netstandard1.0/Newtonsoft.Json.xml",
         "lib/netstandard1.3/Newtonsoft.Json.dll",
         "lib/netstandard1.3/Newtonsoft.Json.xml",
         "lib/netstandard2.0/Newtonsoft.Json.dll",
         "lib/netstandard2.0/Newtonsoft.Json.xml",
-        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
-        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
-        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
-        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
-        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
@@ -7276,6 +7275,7 @@
       "NUnit.Console >= 3.15.0",
       "NUnit.ConsoleRunner >= 3.15.0",
       "NUnit3TestAdapter >= 4.2.1",
+      "Newtonsoft.Json >= 13.0.3",
       "Selenium.Support >= 4.1.0",
       "Selenium.WebDriver >= 4.1.0",
       "Selenium.WebDriver.ChromeDriver >= 99.0.4844.5100",
@@ -7297,11 +7297,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\iPortFramework\\IPort\\iportautomation\\IPortSpecflowFramework\\IPortSpecflowFramework.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\SpecFlowAutomation\\SpecFlowUIAutomation\\IPortSpecflowFramework\\IPortSpecflowFramework.csproj",
       "projectName": "IPortSpecflowFramework",
-      "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\iPortFramework\\IPort\\iportautomation\\IPortSpecflowFramework\\IPortSpecflowFramework.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\SpecFlowAutomation\\SpecFlowUIAutomation\\IPortSpecflowFramework\\IPortSpecflowFramework.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\iPortFramework\\IPort\\iportautomation\\IPortSpecflowFramework\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\SpecFlowAutomation\\SpecFlowUIAutomation\\IPortSpecflowFramework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7373,6 +7373,10 @@
             "target": "Package",
             "version": "[4.2.1, )"
           },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.3, )"
+          },
           "Selenium.Support": {
             "target": "Package",
             "version": "[4.1.0, )"
@@ -7422,7 +7426,7 @@
             "version": "[2.12.4, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.316\\RuntimeIdentifierGraph.json"
       }
     }
   }

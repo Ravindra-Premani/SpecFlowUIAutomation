@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\OneDrive\\Desktop\\iPortFramework\\IPort\\iportautomation\\IPortSpecflowFramework\\IPortSpecflowFramework.csproj": {}
+    "C:\\Users\\hp\\Desktop\\SpecFlowAutomation\\SpecFlowUIAutomation\\IPortSpecflowFramework\\IPortSpecflowFramework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\OneDrive\\Desktop\\iPortFramework\\IPort\\iportautomation\\IPortSpecflowFramework\\IPortSpecflowFramework.csproj": {
+    "C:\\Users\\hp\\Desktop\\SpecFlowAutomation\\SpecFlowUIAutomation\\IPortSpecflowFramework\\IPortSpecflowFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\iPortFramework\\IPort\\iportautomation\\IPortSpecflowFramework\\IPortSpecflowFramework.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\SpecFlowAutomation\\SpecFlowUIAutomation\\IPortSpecflowFramework\\IPortSpecflowFramework.csproj",
         "projectName": "IPortSpecflowFramework",
-        "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\iPortFramework\\IPort\\iportautomation\\IPortSpecflowFramework\\IPortSpecflowFramework.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\SpecFlowAutomation\\SpecFlowUIAutomation\\IPortSpecflowFramework\\IPortSpecflowFramework.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\iPortFramework\\IPort\\iportautomation\\IPortSpecflowFramework\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\SpecFlowAutomation\\SpecFlowUIAutomation\\IPortSpecflowFramework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -83,6 +83,10 @@
               "target": "Package",
               "version": "[4.2.1, )"
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "Selenium.Support": {
               "target": "Package",
               "version": "[4.1.0, )"
@@ -132,7 +136,7 @@
               "version": "[2.12.4, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.316\\RuntimeIdentifierGraph.json"
         }
       }
     }
