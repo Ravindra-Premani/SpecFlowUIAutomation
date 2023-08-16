@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TechTalk.SpecFlow;
 using IPortSpecflowFramework.PageObjects;
+using assert = NUnit.Framework.Assert;
 using Newtonsoft.Json;
 
 namespace IPortSpecflowFramework.Steps
@@ -37,7 +38,7 @@ namespace IPortSpecflowFramework.Steps
         [Then(@"user gets a success response")]
         public void ThenUserGetsASuccessResponse()
         {
-            throw new PendingStepException();
+            assert.True(response.IsSuccessStatusCode);
         }
 
     }
